@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduTtsSample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduTtsSample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 51,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 44,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduTtsSample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 44,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 42,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduTtsSample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 69,
+                        "endColumn": 42,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduTtsSample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduTtsSample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

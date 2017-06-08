@@ -1,0 +1,5 @@
+include ':map', ':maplibstest', ':binary', ':sensor', ':compass', ':myqrcode', ':mytts', ':testsurface', ':Altitude', ':app', ':Audio', ':Video'
+include ':customCameraDemo'
+include ':baiduSpeechRecognizerDemo'
+include ':baiduTtsSample'
+include ':mediaRecorderExample'

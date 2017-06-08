@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Altitude" />
+            <option value="$PROJECT_DIR$/Audio" />
+            <option value="$PROJECT_DIR$/Video" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baiduSpeechRecognizerDemo" />
+            <option value="$PROJECT_DIR$/baiduTtsSample" />
+            <option value="$PROJECT_DIR$/binary" />
+            <option value="$PROJECT_DIR$/compass" />
+            <option value="$PROJECT_DIR$/customCameraDemo" />
+            <option value="$PROJECT_DIR$/map" />
+            <option value="$PROJECT_DIR$/maplibstest" />
+            <option value="$PROJECT_DIR$/mediaRecorderExample" />
+            <option value="$PROJECT_DIR$/myqrcode" />
+            <option value="$PROJECT_DIR$/mytts" />
+            <option value="$PROJECT_DIR$/sensor" />
+            <option value="$PROJECT_DIR$/testsurface" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

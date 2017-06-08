@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Altitude/Altitude.iml" filepath="$PROJECT_DIR$/Altitude/Altitude.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Audio/Audio.iml" filepath="$PROJECT_DIR$/Audio/Audio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyClassWork.iml" filepath="$PROJECT_DIR$/MyClassWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video/Video.iml" filepath="$PROJECT_DIR$/Video/Video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baiduSpeechRecognizerDemo/baiduSpeechRecognizerDemo.iml" filepath="$PROJECT_DIR$/baiduSpeechRecognizerDemo/baiduSpeechRecognizerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baiduTtsSample/baiduTtsSample.iml" filepath="$PROJECT_DIR$/baiduTtsSample/baiduTtsSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary/binary.iml" filepath="$PROJECT_DIR$/binary/binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compass/compass.iml" filepath="$PROJECT_DIR$/compass/compass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customCameraDemo/customCameraDemo.iml" filepath="$PROJECT_DIR$/customCameraDemo/customCameraDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/map.iml" filepath="$PROJECT_DIR$/map/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maplibstest/maplibstest.iml" filepath="$PROJECT_DIR$/maplibstest/maplibstest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediaRecorderExample/mediaRecorderExample.iml" filepath="$PROJECT_DIR$/mediaRecorderExample/mediaRecorderExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myqrcode/myqrcode.iml" filepath="$PROJECT_DIR$/myqrcode/myqrcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytts/mytts.iml" filepath="$PROJECT_DIR$/mytts/mytts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensor/sensor.iml" filepath="$PROJECT_DIR$/sensor/sensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testsurface/testsurface.iml" filepath="$PROJECT_DIR$/testsurface/testsurface.iml" />
+    </modules>
+  </component>
+</project>

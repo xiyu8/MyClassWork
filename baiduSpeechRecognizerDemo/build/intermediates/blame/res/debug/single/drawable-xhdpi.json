@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_wave.png",
+        "source": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\drawable-xhdpi\\bd_asr_wave.png"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_mic.png",
+        "source": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\drawable-xhdpi\\bd_asr_mic.png"
+    }
+]

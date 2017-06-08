@@ -1,0 +1,441 @@
+[
+    {
+        "outputFile": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endLine": 16,
+                        "endColumn": 19,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endLine": 32,
+                        "endColumn": 19,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endLine": 18,
+                    "endColumn": 19,
+                    "endOffset": 745
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endLine": 39,
+                        "endColumn": 19,
+                        "endOffset": 1395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 750,
+                    "endLine": 45,
+                    "endColumn": 19,
+                    "endOffset": 1610
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1677,
+                        "endLine": 74,
+                        "endColumn": 19,
+                        "endOffset": 2563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1615,
+                    "endLine": 50,
+                    "endColumn": 19,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endLine": 23,
+                        "endColumn": 19,
+                        "endOffset": 857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endLine": 55,
+                    "endColumn": 19,
+                    "endOffset": 1975
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1445,
+                        "endLine": 46,
+                        "endColumn": 19,
+                        "endOffset": 1628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1980,
+                    "endColumn": 57,
+                    "endOffset": 2033
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2038,
+                    "endColumn": 55,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 48,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 48,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2143,
+                    "endColumn": 37,
+                    "endOffset": 2176
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 37,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2181,
+                    "endColumn": 35,
+                    "endOffset": 2212
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 43,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2217,
+                    "endColumn": 37,
+                    "endOffset": 2250
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 45,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2255,
+                    "endColumn": 32,
+                    "endOffset": 2283
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1185,
+                        "endColumn": 40,
+                        "endOffset": 1221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2288,
+                    "endColumn": 44,
+                    "endOffset": 2328
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 44,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2333,
+                    "endColumn": 33,
+                    "endOffset": 2362
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1634,
+                        "endColumn": 41,
+                        "endOffset": 1671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2367,
+                    "endColumn": 35,
+                    "endOffset": 2398
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 43,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2403,
+                    "endColumn": 38,
+                    "endOffset": 2437
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 38,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2442,
+                    "endColumn": 40,
+                    "endOffset": 2478
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 40,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2483,
+                    "endColumn": 36,
+                    "endOffset": 2515
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 36,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2520,
+                    "endColumn": 32,
+                    "endOffset": 2548
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1403,
+                        "endColumn": 40,
+                        "endOffset": 1439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2553,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 2839
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2844,
+                    "endLine": 79,
+                    "endColumn": 12,
+                    "endOffset": 2999
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

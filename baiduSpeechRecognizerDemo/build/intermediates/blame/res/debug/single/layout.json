@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\sdk2_api.xml",
+        "source": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\layout\\sdk2_api.xml"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bd_asr_popup_speech.xml",
+        "source": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\layout\\bd_asr_popup_speech.xml"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\slot.xml",
+        "source": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\layout\\slot.xml"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bdspeech_digital_layout.xml",
+        "source": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\layout\\bdspeech_digital_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bdspeech_suggestion_item.xml",
+        "source": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\baiduSpeechRecognizerDemo\\src\\main\\res\\layout\\bdspeech_suggestion_item.xml"
+    }
+]
