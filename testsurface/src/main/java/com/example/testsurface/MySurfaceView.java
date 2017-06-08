@@ -360,10 +360,7 @@ public class MySurfaceView extends SurfaceView implements Runnable, Callback {
 //
 //    float lastSensorX,lastSensorY;
 //    SensorEventListener sensorEventListener=new SensorEventListener() {
-//        @Override
-//        public void onSensorChanged(SensorEvent event) {
-//
-//        }
+//        @Ove
 //
 //        @Override
 //        public void onAccuracyChanged(Sensor sensor, int accuracy) {
