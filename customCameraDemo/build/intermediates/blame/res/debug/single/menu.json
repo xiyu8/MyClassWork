@@ -2,5 +2,9 @@
     {
         "merged": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\customCameraDemo\\build\\intermediates\\res\\merged\\debug\\menu\\test_camera.xml",
         "source": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\customCameraDemo\\src\\main\\res\\menu\\test_camera.xml"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidStudioProject\\MyClassWork\\customCameraDemo\\build\\intermediates\\res\\merged\\debug\\menu\\test_camera.xml",
+        "source": "D:\\WorkPlace\\AndroidStudioProject\\MyClassWork\\customCameraDemo\\src\\main\\res\\menu\\test_camera.xml"
     }
 ]

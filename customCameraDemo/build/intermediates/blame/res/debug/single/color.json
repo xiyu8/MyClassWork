@@ -1,6 +1,10 @@
 [
     {
+        "merged": "D:\\WorkPlace\\AndroidStudioProject\\MyClassWork\\customCameraDemo\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "C:\\Users\\晞余\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\8c24ddf149244993eec674373c85b456\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
         "merged": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\customCameraDemo\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
-        "source": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\customCameraDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
+        "source": "C:\\Users\\晞余\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\1db654c264a7e8b1f9051c29d03d356e\\res\\color\\abc_search_url_text_holo.xml"
     }
 ]

@@ -1,5 +1,6 @@
-include ':map', ':maplibstest', ':binary', ':sensor', ':compass', ':myqrcode', ':mytts', ':testsurface', ':Altitude', ':app', ':Audio', ':Video'
+include ':map', ':maplibstest', ':binary', ':sensor', ':compass', ':myqrcode', ':mytts', ':testsurface', ':app', ':Audio', ':Video', ':Altitude1'
 include ':customCameraDemo'
 include ':baiduSpeechRecognizerDemo'
 include ':baiduTtsSample'
 include ':mediaRecorderExample'
+project(':Altitude1').projectDir = new File('Altitude')

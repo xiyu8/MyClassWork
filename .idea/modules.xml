@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Altitude/Altitude.iml" filepath="$PROJECT_DIR$/Altitude/Altitude.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Altitude/Altitude1.iml" filepath="$PROJECT_DIR$/Altitude/Altitude1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Audio/Audio.iml" filepath="$PROJECT_DIR$/Audio/Audio.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyClassWork.iml" filepath="$PROJECT_DIR$/MyClassWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/Video/Video.iml" filepath="$PROJECT_DIR$/Video/Video.iml" />

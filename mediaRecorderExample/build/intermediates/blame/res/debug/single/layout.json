@@ -2,5 +2,9 @@
     {
         "merged": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\mediaRecorderExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\WorkPlace\\AndroidProject\\MyClassWork\\mediaRecorderExample\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidStudioProject\\MyClassWork\\mediaRecorderExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\WorkPlace\\AndroidStudioProject\\MyClassWork\\mediaRecorderExample\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]
